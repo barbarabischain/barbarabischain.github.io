@@ -1,0 +1,18 @@
+h1{
+    color: #684fa3;
+}
+body{
+    font-size: 20px;
+}
+
+.imagem-com-texto {
+    display: flex;
+    align-items: center; 
+    margin-bottom: 20px;
+}
+
+.imagem-com-texto img {
+    width: 500px; 
+    height: 500to; 
+    margin-right: 20px;
+}
