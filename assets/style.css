@@ -1,18 +1,23 @@
-h1{
+h1 {
     color: #684fa3;
 }
-body{
+
+body {
     font-size: 20px;
 }
 
-.imagem-com-texto {
-    display: flex;
-    align-items: center; 
-    margin-bottom: 20px;
+.texto {
+    margin-bottom: 20px; /* ajuste conforme necessário */
 }
 
-.imagem-com-texto img {
-    width: 500px; 
-    height: 500to; 
-    margin-right: 20px;
+.imagem-com-texto {
+    display: inline-block;
+    margin-right: 20px; /* ajuste conforme necessário */
 }
+
+.imagem {
+    width: 400px; /* Largura ainda maior para as imagens */
+    height: auto;
+}
+
+
